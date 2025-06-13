@@ -1,0 +1,13 @@
+
+savedmodels/DeepSets_Layers_12_Phi_128_Rho_256_Epoch_200_Batch_32.pth Model Evaluation Results:
+Generated on 2025-06-05 at 23
+
+Total Predictions: 106528
+MAE (Mean Absolute Error): 18.25
+RMSE (Root Mean Squared Error): 87.07
+
+Predictions within:
+- within 1percent: 1728 (1.62%)
+- within 5percent: 8880 (8.34%)
+- within 10percent: 17712 (16.63%)
+- within 20percent: 35302 (33.14%)

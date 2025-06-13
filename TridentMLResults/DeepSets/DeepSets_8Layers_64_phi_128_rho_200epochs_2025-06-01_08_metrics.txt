@@ -1,0 +1,13 @@
+
+Deep Sets Model Evaluation Results:
+Generated on 2025-06-01 at 08
+
+Total Predictions: 106528
+MAE (Mean Absolute Error): 17.34
+RMSE (Root Mean Squared Error): 61.31
+
+Predictions within:
+- within 1percent: 1850 (1.74%)
+- within 5percent: 9274 (8.71%)
+- within 10percent: 18561 (17.42%)
+- within 20percent: 36932 (34.67%)

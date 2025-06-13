@@ -1,0 +1,13 @@
+
+savedmodels/MLP_Layers_8_InputDim256_MaxDim_1024_Epochs_200_Batch_32.pth Model Evaluation Results:
+Generated on 2025-06-04 at 08
+
+Total Predictions: 106528
+MAE (Mean Absolute Error): 16.93
+RMSE (Root Mean Squared Error): 83.09
+
+Predictions within:
+- within 1percent: 1896 (1.78%)
+- within 5percent: 9268 (8.70%)
+- within 10percent: 18502 (17.37%)
+- within 20percent: 36408 (34.18%)

@@ -1,0 +1,13 @@
+
+MLP Model Evaluation Results:
+Generated on 2025-05-30 at 19
+
+Total Predictions: 106528
+MAE (Mean Absolute Error): 22.22
+RMSE (Root Mean Squared Error): 68.19
+
+Predictions within:
+- within 1percent: 1555 (1.46%)
+- within 5percent: 7663 (7.19%)
+- within 10percent: 15156 (14.23%)
+- within 20percent: 30333 (28.47%)
